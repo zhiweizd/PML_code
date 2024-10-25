@@ -1,0 +1,29 @@
+1.Parameters used in PML-LC
+lamada_1 = ,
+
+2.fPML
+lamada_1=1, lamada_2=1, lamada_3=10
+
+3.LIFT
+r=0.5
+
+4.ML-KNN
+k=10
+
+4.PML-LRS
+gamma = 0.01， beta = 0.1, eta=1
+
+5.PML-Lcom
+r=0.6q, lamada_1=5, lamada_2=10, lamada_3=0.1
+
+6.PML-SALC
+alpha=1, beta=1000, gamma=400, sigma=1000, phi=1
+
+7.PML-NI
+lamada=1, beta=10, gamma=1
+
+8.NATAL
+alpha=1, beta=0.000001, lamada=0.1
+
+9.HALE
+k=10
