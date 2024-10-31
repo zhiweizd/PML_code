@@ -1,6 +1,6 @@
 # PML_code
 
-this is PML-lc code, we have provided the datasets used in our experiment without imdb dataset, because it's a file biggerer than 25MB. 
+this is PML-LC source code, we have provided the datasets used in our experiment without imdb dataset, because it's a file biggerer than 25MB. 
 
 Please note that they are raw datasets without added noise labels!
 
