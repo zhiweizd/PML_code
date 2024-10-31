@@ -1,6 +1,8 @@
 # PML_code
 
-this is PML-lc code, we have provided the datasets used in our experiment, but please note that they are raw datasets without added noise labels. 
+this is PML-lc code, we have provided the datasets used in our experiment without imdb dataset, because it's a file biggerer than 25MB. 
+
+Please note that they are raw datasets without added noise labels!
 
 'ml_yeast.mat' has been added noisy labels.
 
