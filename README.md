@@ -6,6 +6,6 @@ scene, llog, image, yeast, flags, emotions, medical, recreation, imdb, enron, ed
 
 We have presented all the datasets without imdb dataset, because it's a file biggerer than 25MB. 
 
-Please note that they are raw datasets without added noise labels!
+Please note that these datasets are raw datasets without add noise labels!
 
 These datasets are available at the Mulan Library (https://mulan.sourceforge.net) and the Sourceforge (https://meka.sourceforge.net/#datasets).
